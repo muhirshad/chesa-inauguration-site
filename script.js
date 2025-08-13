@@ -2,7 +2,7 @@
 (function(){
   // Target date in IST -> convert to local by constructing with UTC then offset calc
   // Simpler: build a Date string with timezone offset +05:30 and rely on Date parsing.
-  const target = new Date('2025-08-14T08:00:00+05:30').getTime();
+  const target = new Date('2025-08-16T08:00:00+05:30').getTime();
 
   function pad(n){ return String(n).padStart(2,'0'); }
 
