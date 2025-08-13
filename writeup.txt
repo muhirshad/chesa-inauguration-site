@@ -1,0 +1,1 @@
+CHESA Inauguration web page featuring a hero section with countdown, RSVP, agenda, and gallery placeholders. Built with HTML, CSS, and vanilla JS; responsive, high‑contrast, and accessible (alt text, focus styles). Tools: VS Code + optional AI helpers. Hosted on GitHub Pages/Netlify/Vercel. Identity elements for CHESA/Department/College included. (≈80 words)
